@@ -1,0 +1,51 @@
+h1{
+  
+  background-color: none;
+  transition-timing-function: linear;
+  transition-duration: 2s
+}
+
+h1:hover{
+ background-color: red;
+}
+
+body {
+	padding-top: 100px;
+	border-color:blue;
+}
+
+header{
+	position:fixed;
+	background-color:black;
+	top:0;
+	left:0;
+	right:0;
+	font-size:300%;
+	align-items:center;
+	padding-bottom:20px;
+}
+
+h2{
+	font-size:90%;
+	color:white;
+	font-family: 'Do Hyeon', sans-serif;
+	display: inline-block;
+	margin:0;
+	padding-left:30px;
+	padding-right:50px;
+}
+
+span{
+	font-size:90%;
+	color:white;
+	font-family: 'Do Hyeon', sans-serif;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+span:hover{
+	font-family: 'Do Hyeon', sans-serif;
+	padding-left:20px;
+	padding-right:20px;
+	color:yellow;
+}
