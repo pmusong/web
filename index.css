@@ -5,6 +5,11 @@ h1{
   transition-duration: 2s
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 h1:hover{
  background-color: red;
 }
